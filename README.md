@@ -1,6 +1,6 @@
 <h1>Oi! 👋</h1>
 
-🚀 Atualmente trabalhando em um projeto da faculdade — desenvolvendo um Aplicativo Web para a Prefeitura.<br>🌱 Estudando JavaScript e me aprofundando no desenvolvimento web.
+🚀 Atualmente trabalhando em um projeto voluntário — desenvolvendo um Aplicativo Web para a Câmara Municipal.<br>🌱 Estudando JavaScript e me aprofundando no desenvolvimento web.
 <br>💬 Quer saber mais sobre minha trajetória ou os projetos que já desenvolvi? É só perguntar!
 <br>☕ Curiosidade: amo transformar café em código, principalmente em dias chuvosos.
 
